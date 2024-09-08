@@ -1,0 +1,11 @@
+Package: timstoolbox
+Title: A collection of Tim's favourite tools
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tim", "B-S", , "mindur@ownbusiness.ac.uk", role = c("aut", "cre"),
+           comment = c(ORCID = "should probably get an ORCID ID"))
+Description: A bunch of handy functions, all in the same toolbox.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
